@@ -1,0 +1,11 @@
+# basic options
+title: facilinate
+author: Chloe Posthuma-Coelho
+email: chloeposthumacoelho@gmail.com
+description: facilinate: a better, easier way to donate
+twitter_username: 
+github_username:  chloepc03
+
+# Build settings
+markdown: kramdown
+theme: minima
